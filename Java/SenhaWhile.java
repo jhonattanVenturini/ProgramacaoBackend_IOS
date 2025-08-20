@@ -1,8 +1,4 @@
 
-
-// sistema aonde você coloca uma senha que aonde você digita "1234"
-// se vc coloca errado ele vai tentando e seguindo até vc colocar  a senha certa!
-
 package Java;
 import java.util.Scanner;
 
