@@ -2,7 +2,7 @@
 // sistema que você coloca a senha usando uma estruturade de decisão, if e else 
 // primeiro vc coloca a senha e ele permite o acesso caso não vc terá senha negada
 
-package Java;
+package Java.AulaGeral;
 import java.util.Scanner;
 
 public class VerificaSenha {

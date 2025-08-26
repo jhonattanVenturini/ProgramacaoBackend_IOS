@@ -1,4 +1,4 @@
-package Java;
+package Java.AulaGeral;
 
 public class teste {
   public static void main(String[] args) {

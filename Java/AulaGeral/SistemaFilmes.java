@@ -1,3 +1,4 @@
+package Java.AulaGeral;
 import java.util.Scanner;
 
 public class SistemaFilmes {
