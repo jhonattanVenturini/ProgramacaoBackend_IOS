@@ -6,11 +6,5 @@ public class While {
         // Ler o dado 
 
 
-
-        
-        Scanner sc = new Scanner(System.in);
-        
-        
-
     }
 }
